@@ -8,7 +8,7 @@
     "BuildPipeline": "EditorSimulateBuildPipeline",
     "PackageName": "DefaultPackage",
     "PackageVersion": "Simulate",
-    "PackageNote": "2025/6/20 18:02:31",
+    "PackageNote": "2025/6/23 16:48:35",
     "AssetList": [
         {
             "Address": "YIUIConstAsset",
@@ -133,6 +133,22 @@
         {
             "Address": "System.Runtime.CompilerServices.Unsafe.dll",
             "AssetPath": "Packages/cn.etetet.loader/Bundles/AotDlls/System.Runtime.CompilerServices.Unsafe.dll.bytes",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 5,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "Wx.dll",
+            "AssetPath": "Packages/cn.etetet.loader/Bundles/AotDlls/Wx.dll.bytes",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 5,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "wx-runtime.dll",
+            "AssetPath": "Packages/cn.etetet.loader/Bundles/AotDlls/wx-runtime.dll.bytes",
             "AssetGUID": "",
             "AssetTags": [],
             "BundleID": 5,
@@ -515,7 +531,7 @@
             "UnityCRC": 0,
             "FileHash": "291a1b6346ba0a84a9b5ad3375c584be",
             "FileCRC": "00000000",
-            "FileSize": 8169984,
+            "FileSize": 8595456,
             "Encrypted": false,
             "Tags": [],
             "DependBundleIDs": []
@@ -525,7 +541,7 @@
             "UnityCRC": 0,
             "FileHash": "c8999d4d8e85c24ca1150e12d976c500",
             "FileCRC": "00000000",
-            "FileSize": 1136396,
+            "FileSize": 1105708,
             "Encrypted": false,
             "Tags": [],
             "DependBundleIDs": []

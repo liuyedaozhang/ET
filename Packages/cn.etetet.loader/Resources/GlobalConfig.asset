@@ -14,4 +14,4 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   CodeMode: 1
   SceneName: StateSync
-  Address: 192.168.2.159:10101
+  Address: 127.0.0.1:10101

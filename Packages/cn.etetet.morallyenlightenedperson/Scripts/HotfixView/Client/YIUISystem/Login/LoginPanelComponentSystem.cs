@@ -292,13 +292,20 @@ namespace ET.Client
 #endif
         #endregion
         
-        private static void GetUserInfo(bool success, Dictionary<string, object> data)
+        private static async ETTask GetUserInfo(bool success, Dictionary<string, object> data,LoginPanelComponent self)
         {
             if (success)
             {
                 string userName = data.ContainsKey("KU_Name") ? data["KU_Name"].ToString() : "未知";
                 string userAvatar = data.ContainsKey("KU_Avatar") ? data["KU_Avatar"].ToString() : "未知";
                 Log.Info($"用户名: {userName}, 用户头像: {userAvatar}");
+                GlobalComponent globalComponent = self.Root().GetComponent<GlobalComponent>();
+                await LoginHelper.Login(
+                    self.Root(),
+                    globalComponent.GlobalConfig.Address,
+                    $"{userName}",
+                    $"{userAvatar}"
+                );
             }
             else
             {
@@ -329,22 +336,14 @@ namespace ET.Client
 #else
             Debug.Log("编辑器模式，跳过微信登录");
             // 在编辑器中可以模拟登录成功
-            GetUserInfo(true, new Dictionary<string, object>
+           await GetUserInfo(true, new Dictionary<string, object>
             {
                 { "KU_Name", "成为你的云" },
                 { "KU_Avatar", "https://thirdwx.qlogo.cn/mmopen/vi_32/nRyOKRlTU204d2sOLkibhQashW42WibTAjPzrZKic9yrwE6zN443dsZ0GVlANTFRk6XJMcOtacWTeXWsgff5dYnrEdh5712fHQkON5QpWzgV1M/132" }
-            });
+            },self);
 #endif
             
             await ETTask.CompletedTask;
-            
-            // GlobalComponent globalComponent = self.Root().GetComponent<GlobalComponent>();
-            // await LoginHelper.Login(
-            //     self.Root(),
-            //     globalComponent.GlobalConfig.Address,
-            //     "1",
-            //     "2"
-            // );
         }
         #endregion YIUIEvent结束
     }
