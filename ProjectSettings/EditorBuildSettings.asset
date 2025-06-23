@@ -6,8 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Packages/cn.etetet.loader/Scenes/Init.unity
-    guid: e0d691ac8c1d0454ba07089ea820e18a
+    path: Packages/cn.etetet.yiuistatesync/Scenes/Init.unity
+    guid: 3ba5b6579d0531b4892c5864cd6ab898
   m_configObjects:
     com.unity.addressableassets: {fileID: 11400000, guid: f989b2ba24890344e858b377390e01f5,
       type: 2}
+  m_UseUCBPForAssetBundles: 0

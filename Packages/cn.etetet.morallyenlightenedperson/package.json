@@ -1,0 +1,16 @@
+﻿{
+  "name": "cn.etetet.morallyenlightenedperson",
+  "displayName": "ET.MorallyEnlightenedPerson",
+  "version": "0.0.0",
+  "unity": "2022.3",
+  "description": "道德开悟牌项目",
+  "author": {
+    "name": "RK"
+  },
+  "repository": {},
+  "relatedPackages": {},
+  "dependencies": {},
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/@ET-Packages"
+  }
+}

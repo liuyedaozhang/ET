@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.0.25f1
+CRC: 26255388
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8d1b1b811007249f06efa8e040f5882e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8fea6d80c92ed92fa53bc89909b5d51e
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 5fb90d9805d6cfcdbda06bbc389369e3
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 502d8cafd6a5a0447ab1db9a24cdcb10, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: ET.ReferenceCollector
+  ClassName: .ReferenceCollectorData
+Assets:
+- Packages/cn.etetet.demores/Bundles/Unit/Unit.prefab
+Dependencies:
+- D:/Unity/ET/ET9.0/Bundles/WebGL/DefaultPackage/OutputCache/defaultpackage_share_packages_cn_etetet_demores_unit_skeleton.bundle

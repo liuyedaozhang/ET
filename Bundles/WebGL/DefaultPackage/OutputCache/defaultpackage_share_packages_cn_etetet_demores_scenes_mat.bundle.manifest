@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.0.25f1
+CRC: 1727868421
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e5bc41a41ae7b1392942c2929019a31c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4afb0d898c1c22a5e88248733bd69457
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 4f4ff74a2aeaa64b11bff5367ba73a7f
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Packages/cn.etetet.demores/Scenes/Mat/Urp.mat
+Dependencies:
+- D:/Unity/ET/ET9.0/Bundles/WebGL/DefaultPackage/OutputCache/defaultpackage_unityshaders.bundle

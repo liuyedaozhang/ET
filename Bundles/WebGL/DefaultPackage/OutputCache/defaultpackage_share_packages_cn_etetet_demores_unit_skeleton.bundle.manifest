@@ -1,0 +1,40 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.0.25f1
+CRC: 147959860
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7fbb130ebb79614b9b02459f3310306c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b17885973761ee72a4df7c0fce059823
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 45e27eb756688487993fba1443343e13
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Packages/cn.etetet.demores/Unit/Skeleton/SkeletonController.controller
+- Packages/cn.etetet.demores/Unit/Skeleton/Skeleton.prefab
+Dependencies:
+- D:/Unity/ET/ET9.0/Bundles/WebGL/DefaultPackage/OutputCache/defaultpackage_share_packages_cn_etetet_demores_unit_skeleton_ani.bundle
+- D:/Unity/ET/ET9.0/Bundles/WebGL/DefaultPackage/OutputCache/defaultpackage_share_packages_cn_etetet_demores_unit_skeleton_ani_materials.bundle

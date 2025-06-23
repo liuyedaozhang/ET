@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.0.25f1
+CRC: 4249386221
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ae771d91fd7d9707eef0933fd973c9ce
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8a2495a88de0d3de1e83438e6f586662
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: bbb15d7989c1fb1f43829dca176db690
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Packages/cn.etetet.demores/Scenes/Map2/ReflectionProbe-0.exr
+- Packages/cn.etetet.demores/Scenes/Map2/Lightmap-0_comp_dir.png
+- Packages/cn.etetet.demores/Scenes/Map2/Lightmap-0_comp_light.exr
+Dependencies: []

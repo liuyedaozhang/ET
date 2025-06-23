@@ -1,0 +1,11 @@
+﻿{
+    "Id": 0,
+    "Name": "morallyenlightenedperson",
+    "ScriptsReferences": 
+    {
+        "Hotfix": [""],
+        "HotfixView": [""],
+        "Model": [""],
+        "ModelView": [""]
+    }
+}

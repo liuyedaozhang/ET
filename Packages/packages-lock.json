@@ -80,6 +80,12 @@
       "source": "embedded",
       "dependencies": {}
     },
+    "cn.etetet.morallyenlightenedperson": {
+      "version": "file:cn.etetet.morallyenlightenedperson",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
     "cn.etetet.move": {
       "version": "file:cn.etetet.move",
       "depth": 0,
@@ -164,12 +170,12 @@
         "cn.etetet.referencecollector": "3.0.0",
         "cn.etetet.login": "3.0.0",
         "cn.etetet.netinner": "3.0.0",
-        "cn.etetet.hybridclr": "7.8.0",
+        "cn.etetet.hybridclr": "7.8.1",
         "cn.etetet.excel": "3.0.0",
         "cn.etetet.proto": "3.0.2",
         "cn.etetet.ai": "3.0.0",
         "cn.etetet.sourcegenerator": "3.0.1",
-        "cn.etetet.yooassets": "2.1.5",
+        "cn.etetet.yooassets": "2.3.6",
         "cn.etetet.memorypack": "1.10.1",
         "cn.etetet.startconfig": "3.0.0"
       }
@@ -192,12 +198,116 @@
       "source": "embedded",
       "dependencies": {}
     },
+    "cn.etetet.webgl": {
+      "version": "file:cn.etetet.webgl",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {
+        "cn.etetet.core": "2.0.8"
+      }
+    },
+    "cn.etetet.yiui": {
+      "version": "file:cn.etetet.yiui",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
+    "cn.etetet.yiui3ddisplay": {
+      "version": "file:cn.etetet.yiui3ddisplay",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {
+        "cn.etetet.yiuiframework": "2.0.0"
+      }
+    },
+    "cn.etetet.yiuieffect": {
+      "version": "file:cn.etetet.yiuieffect",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {
+        "cn.etetet.yiuiframework": "2.0.0"
+      }
+    },
+    "cn.etetet.yiuiframework": {
+      "version": "file:cn.etetet.yiuiframework",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {
+        "cn.etetet.core": "3.0.3",
+        "cn.etetet.yiuiinvoke": "4.0.0"
+      }
+    },
+    "cn.etetet.yiuigm": {
+      "version": "file:cn.etetet.yiuigm",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {
+        "cn.etetet.yiuiframework": "2.0.0",
+        "cn.etetet.yiuiloopscrollrectasync": "2.0.0"
+      }
+    },
+    "cn.etetet.yiuiinvoke": {
+      "version": "file:cn.etetet.yiuiinvoke",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
+    "cn.etetet.yiuiloopscrollrectasync": {
+      "version": "file:cn.etetet.yiuiloopscrollrectasync",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {
+        "cn.etetet.yiuiframework": "2.0.0"
+      }
+    },
+    "cn.etetet.yiuireddot": {
+      "version": "file:cn.etetet.yiuireddot",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {
+        "cn.etetet.yiuiframework": "2.0.0",
+        "cn.etetet.yiuiloopscrollrectasync": "2.0.0"
+      }
+    },
+    "cn.etetet.yiuistatesync": {
+      "version": "file:cn.etetet.yiuistatesync",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {
+        "cn.etetet.statesync": "3.0.11",
+        "cn.etetet.packagemanager": "1.0.5",
+        "cn.etetet.yiuiframework": "2.0.0",
+        "cn.etetet.yiuiyooassets": "2.0.0",
+        "cn.etetet.yiuiloopscrollrectasync": "2.0.0",
+        "cn.etetet.yiuigm": "2.0.0",
+        "cn.etetet.yiuireddot": "2.0.0",
+        "cn.etetet.yiuitips": "2.0.0",
+        "cn.etetet.yiui3ddisplay": "2.0.0",
+        "cn.etetet.yiuieffect": "2.0.0"
+      }
+    },
+    "cn.etetet.yiuitips": {
+      "version": "file:cn.etetet.yiuitips",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {
+        "cn.etetet.yiuiframework": "2.0.0"
+      }
+    },
+    "cn.etetet.yiuiyooassets": {
+      "version": "file:cn.etetet.yiuiyooassets",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {
+        "cn.etetet.yiuiframework": "2.0.0"
+      }
+    },
     "cn.etetet.yooassets": {
       "version": "file:cn.etetet.yooassets",
       "depth": 0,
       "source": "embedded",
       "dependencies": {
-        "com.unity.scriptablebuildpipeline": "1.21.21",
+        "com.unity.scriptablebuildpipeline": "1.21.25",
         "com.unity.modules.assetbundle": "1.0.0",
         "com.unity.modules.unitywebrequest": "1.0.0",
         "com.unity.modules.unitywebrequestassetbundle": "1.0.0"
@@ -217,6 +327,12 @@
         "com.unity.nuget.newtonsoft-json": "3.0.2",
         "com.unity.sharp-zip-lib": "1.3.4-preview"
       }
+    },
+    "com.unity.2d.sprite": {
+      "version": "1.0.0",
+      "depth": 0,
+      "source": "builtin",
+      "dependencies": {}
     },
     "com.unity.ai.navigation": {
       "version": "2.0.4",

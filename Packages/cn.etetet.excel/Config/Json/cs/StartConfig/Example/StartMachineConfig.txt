@@ -1,0 +1,3 @@
+{"dict": [
+[1, {"_t":"StartMachineConfig","_id":1,"InnerIP":"192.168.2.159","OuterIP":"192.168.2.159","WatcherPort":"10101"}],
+]}

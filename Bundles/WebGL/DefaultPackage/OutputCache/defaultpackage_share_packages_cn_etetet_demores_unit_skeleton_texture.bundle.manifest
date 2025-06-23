@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.0.25f1
+CRC: 239906735
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 41fa9907849aa51d11d0fde9f665a3d3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5527383dc91eba37123fc67ad6efaa19
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: be6f21bf4c625782fa68d8dc019cfe8f
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Packages/cn.etetet.demores/Unit/Skeleton/Texture/Skeleton_D.tif
+Dependencies: []

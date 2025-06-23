@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.0.25f1
+CRC: 4106309447
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 013ba3407c4e5130de4e38362f37131c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: a512bc14ab505d8e30474bf920d1ec91
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Packages/cn.etetet.loader/Bundles/AotDlls/ET.Loader.dll.bytes
+- Packages/cn.etetet.loader/Bundles/AotDlls/System.Runtime.CompilerServices.Unsafe.dll.bytes
+- Packages/cn.etetet.loader/Bundles/AotDlls/ET.MemoryPack.dll.bytes
+- Packages/cn.etetet.loader/Bundles/AotDlls/ET.YooAssets.dll.bytes
+- Packages/cn.etetet.loader/Bundles/AotDlls/MongoDB.Bson.dll.bytes
+- Packages/cn.etetet.loader/Bundles/AotDlls/System.Core.dll.bytes
+- Packages/cn.etetet.loader/Bundles/AotDlls/ET.Core.dll.bytes
+- Packages/cn.etetet.loader/Bundles/AotDlls/System.dll.bytes
+- Packages/cn.etetet.loader/Bundles/AotDlls/CommandLine.dll.bytes
+- Packages/cn.etetet.loader/Bundles/AotDlls/mscorlib.dll.bytes
+Dependencies: []

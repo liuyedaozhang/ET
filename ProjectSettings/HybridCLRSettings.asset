@@ -38,6 +38,8 @@ MonoBehaviour:
   - mscorlib.dll
   - ET.MemoryPack.dll
   - System.Runtime.CompilerServices.Unsafe.dll
+  - Wx.dll
+  - wx-runtime.dll
   outputLinkFile: HybridCLR/link.xml
   outputAOTGenericReferenceFile: HybridCLR/AOTGenericReferences.cs
   maxGenericReferenceIteration: 10

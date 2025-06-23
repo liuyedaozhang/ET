@@ -1,5 +1,11 @@
 {
   "dependencies": {
+    "cn.etetet.core": "2.0.8",
+    "cn.etetet.packagemanager": "1.0.5",
+    "cn.etetet.statesync": "3.0.11",
+    "cn.etetet.webgl": "2.0.5",
+    "cn.etetet.yiuistatesync": "2.0.0",
+    "com.unity.2d.sprite": "1.0.0",
     "com.unity.ai.navigation": "2.0.4",
     "com.unity.ide.rider": "3.0.31",
     "com.unity.ide.visualstudio": "2.0.22",

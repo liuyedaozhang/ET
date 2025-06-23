@@ -1,0 +1,15 @@
+{
+    "Id": 1001,
+    "Name": "YIUI.Framework",
+    "ScriptsReferences": 
+    {
+      "ModelView": [
+        "ET.YIUIFramework",
+        "Unity.TextMeshPro"
+      ],
+      "HotfixView": [
+        "ET.YIUIFramework",
+        "Unity.TextMeshPro"
+      ]
+    }
+}

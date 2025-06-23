@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.0.25f1
+CRC: 180965680
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a89a90cb3331d5e52af72343025100b9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 6fd18ae604481a93194fa4cc04f9ba43
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Packages/cn.etetet.excel/Config/Bytes/c/UnitConfigCategory.bytes
+- Packages/cn.etetet.excel/Config/Bytes/c/AIConfigCategory.bytes
+Dependencies: []

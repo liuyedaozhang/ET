@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.0.25f1
+CRC: 924512820
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 26358e4d1ee95c5c9804464e59f4f038
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8ed81b296f435bff7379a355cd1d66d9
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: f3755399b8f99f90dcf2bd5143826081
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Packages/cn.etetet.demores/Unit/Skeleton/Ani/Materials/skeleton_D.mat
+Dependencies:
+- D:/Unity/ET/ET9.0/Bundles/WebGL/DefaultPackage/OutputCache/defaultpackage_share_packages_cn_etetet_demores_unit_skeleton_texture.bundle
+- D:/Unity/ET/ET9.0/Bundles/WebGL/DefaultPackage/OutputCache/defaultpackage_unityshaders.bundle

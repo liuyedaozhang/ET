@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.0.25f1
+CRC: 405939094
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 98fdb57ede0795dcd38a7f87a2cdcca1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 26efe2053250467dceb7a745569239e7
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Packages/cn.etetet.loader/Bundles/Code/ET.Model.pdb.bytes
+- Packages/cn.etetet.loader/Bundles/Code/ET.ModelView.dll.bytes
+- Packages/cn.etetet.loader/Bundles/Code/ET.Hotfix.pdb.bytes
+- Packages/cn.etetet.loader/Bundles/Code/ET.Model.dll.bytes
+- Packages/cn.etetet.loader/Bundles/Code/ET.Hotfix.dll.bytes
+- Packages/cn.etetet.loader/Bundles/Code/ET.HotfixView.pdb.bytes
+- Packages/cn.etetet.loader/Bundles/Code/ET.ModelView.pdb.bytes
+- Packages/cn.etetet.loader/Bundles/Code/ET.HotfixView.dll.bytes
+Dependencies: []

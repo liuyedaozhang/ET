@@ -1,0 +1,23 @@
+{
+  "name": "cn.etetet.webgl",
+  "displayName": "ET.WebGL",
+  "version": "2.0.5",
+  "unity": "2022.3",
+  "description": "webgl包",
+  "author": {
+    "name": "tanghai",
+    "url": "https://github.com/egametang/ET"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/egametang/ET"
+  },
+  "relatedPackages": {},
+  "dependencies": {
+    "cn.etetet.core": "2.0.8"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/@ET-Packages"
+  },
+  "_fingerprint": "e755a701045a550a20e313cbc4f9518c7f9d6e9b"
+}

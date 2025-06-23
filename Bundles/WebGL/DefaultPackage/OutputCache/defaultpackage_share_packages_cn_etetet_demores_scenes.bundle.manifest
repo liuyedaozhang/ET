@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.0.25f1
+CRC: 1493493188
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a83e8f05dffa8b18cff28597ac26ad9d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 93453028c80da709e08fc518237332f7
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 4a8da0c4cd8990a387aeef43c3ed5798
+HashAppended: 0
+ClassTypes:
+- Class: 850595691
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Packages/cn.etetet.demores/Scenes/Map2Settings.lighting
+- Packages/cn.etetet.demores/Scenes/Map1Settings.lighting
+Dependencies: []

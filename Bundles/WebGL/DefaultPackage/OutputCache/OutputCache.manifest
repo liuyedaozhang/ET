@@ -1,0 +1,73 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.0.25f1
+CRC: 854713760
+HashAppended: 0
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: defaultpackage_packages_cn_etetet_loader_bundles_aotdlls.bundle
+      Dependencies: {}
+    Info_1:
+      Name: defaultpackage_packages_cn_etetet_loader_bundles_code.bundle
+      Dependencies: {}
+    Info_2:
+      Name: defaultpackage_packages_cn_etetet_excel_config_bytes_c.bundle
+      Dependencies: {}
+    Info_3:
+      Name: defaultpackage_packages_cn_etetet_demores_scenes_map1.bundle
+      Dependencies:
+        Dependency_0: defaultpackage_share_packages_cn_etetet_demores_scenes.bundle
+        Dependency_1: defaultpackage_share_packages_cn_etetet_demores_scenes_mat.bundle
+        Dependency_2: defaultpackage_share_packages_cn_etetet_demores_scenes_map1.bundle
+    Info_4:
+      Name: defaultpackage_packages_cn_etetet_demores_scenes_map2.bundle
+      Dependencies:
+        Dependency_0: defaultpackage_share_packages_cn_etetet_demores_scenes.bundle
+        Dependency_1: defaultpackage_share_packages_cn_etetet_demores_scenes_mat.bundle
+        Dependency_2: defaultpackage_share_packages_cn_etetet_demores_scenes_map2.bundle
+    Info_5:
+      Name: defaultpackage_packages_cn_etetet_statesync_bundles_ui_uihelp.bundle
+      Dependencies: {}
+    Info_6:
+      Name: defaultpackage_packages_cn_etetet_statesync_bundles_ui_uilobby.bundle
+      Dependencies: {}
+    Info_7:
+      Name: defaultpackage_packages_cn_etetet_statesync_bundles_ui_uilogin.bundle
+      Dependencies: {}
+    Info_8:
+      Name: defaultpackage_packages_cn_etetet_demores_bundles_unit_unit.bundle
+      Dependencies:
+        Dependency_0: defaultpackage_share_packages_cn_etetet_demores_unit_skeleton.bundle
+    Info_9:
+      Name: defaultpackage_share_packages_cn_etetet_demores_scenes.bundle
+      Dependencies: {}
+    Info_10:
+      Name: defaultpackage_share_packages_cn_etetet_demores_scenes_mat.bundle
+      Dependencies:
+        Dependency_0: defaultpackage_unityshaders.bundle
+    Info_11:
+      Name: defaultpackage_unityshaders.bundle
+      Dependencies: {}
+    Info_12:
+      Name: defaultpackage_share_packages_cn_etetet_demores_scenes_map1.bundle
+      Dependencies: {}
+    Info_13:
+      Name: defaultpackage_share_packages_cn_etetet_demores_scenes_map2.bundle
+      Dependencies: {}
+    Info_14:
+      Name: defaultpackage_share_packages_cn_etetet_demores_unit_skeleton.bundle
+      Dependencies:
+        Dependency_0: defaultpackage_share_packages_cn_etetet_demores_unit_skeleton_ani.bundle
+        Dependency_1: defaultpackage_share_packages_cn_etetet_demores_unit_skeleton_ani_materials.bundle
+    Info_15:
+      Name: defaultpackage_share_packages_cn_etetet_demores_unit_skeleton_ani.bundle
+      Dependencies:
+        Dependency_0: defaultpackage_share_packages_cn_etetet_demores_unit_skeleton_ani_materials.bundle
+    Info_16:
+      Name: defaultpackage_share_packages_cn_etetet_demores_unit_skeleton_ani_materials.bundle
+      Dependencies:
+        Dependency_0: defaultpackage_unityshaders.bundle
+        Dependency_1: defaultpackage_share_packages_cn_etetet_demores_unit_skeleton_texture.bundle
+    Info_17:
+      Name: defaultpackage_share_packages_cn_etetet_demores_unit_skeleton_texture.bundle
+      Dependencies: {}
